@@ -1,0 +1,38 @@
+body {
+    color: purple;
+    padding: 20px; 
+    background-color: rgb(241, 198, 241);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+a {
+    text-decoration: none;
+}
+
+header img {
+    width: 650px;
+    height: 4%;
+    border: 50px;
+
+}
+
+.center {
+    text-align: center;
+}
+
+nav a:hover {
+    color: rgb(187, 27, 160)
+}
+footer img {
+     width: 150px;
+     height: 150px
+}
+    
